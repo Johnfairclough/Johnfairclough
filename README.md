@@ -52,7 +52,7 @@ Front To Back Web Development
 
 
 ### `Interested In`
-•**The User Experience** <br>
+•**The User Interface** <br>
 •**Architectural Design** <br>
 •**Creative Solutions For The New World Post Covid-19** 
 •**React Native** <br>
