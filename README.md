@@ -37,17 +37,17 @@ Full Stack Web Development <br>
 Front To Back Web Development
 
 ### `Skills & Platforms`
-•React JS
-•JavaScript ES5/ES6
-•Typescript
-•jQuery
-•Node Js
-•PHP
-•Wordpress
-•CSS/SASS
-•HTML
-•GIT
-•API's/JSON
+•React JS <br>
+•JavaScript ES5/ES6 <br>
+•Typescript <br>
+•jQuery <br>
+•Node Js <br>
+•PHP <br>
+•Wordpress <br>
+•CSS/SASS <br>
+•HTML <br>
+•GIT <br>
+•API's/JSON <br>
 •Photoshop/Figma
 
 
