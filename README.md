@@ -29,11 +29,11 @@ consumers in the housing sector.
 
 
 ### `Education`
-•**JUST IT BOOTCAMP** February 2020 - May 2020<br>
+**JUST IT BOOTCAMP** February 2020 - May 2020<br>
 Software and Web Development <br>
-•**CODECADEMY** June 2019 - September 2019 <br>
+**CODECADEMY** June 2019 - September 2019 <br>
 Full Stack Web Development <br>
-•**UDEMY** 2019 <br>
+**UDEMY** 2019 <br>
 Front To Back Web Development
 
 ### `Skills & Platforms`
